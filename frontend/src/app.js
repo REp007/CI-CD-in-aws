@@ -1,5 +1,5 @@
 // API URL - change this to your deployed backend URL when in production
-const API_URL = "http://localhost:5000/api";
+const API_URL = "http://localhost:3000/api";
 
 // Fetch all items
 async function fetchItems() {
